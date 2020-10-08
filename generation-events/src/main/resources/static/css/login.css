@@ -1,0 +1,10 @@
+.container{
+	margin-top:3rem;
+	padding-top:3rem;
+	padding-bottom:10rem;
+}
+
+#logout{
+	width:7rem;
+	height:3rem;
+}

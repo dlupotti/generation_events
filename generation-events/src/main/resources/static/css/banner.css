@@ -1,0 +1,15 @@
+#carouselExampleCaptions{
+	margin-bottom:2rem;
+}
+.carousel-item{
+    width:70rem;
+    height:20rem;
+}
+#img-carousel{
+    position: relative;
+    bottom:10rem;
+}
+.carousel-caption{
+    background-color: rgba(100,100,100,0.6);
+    border-radius: 1rem;
+}
